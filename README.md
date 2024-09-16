@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 <h1 align="center">Hi 👋, I'm Daniel Carlos</h1>
 <h3 align="center">Fullstack web developer</h3>
 
