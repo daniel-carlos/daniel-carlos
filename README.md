@@ -5,12 +5,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a as="div" target="_blank">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcso)</a>
-<a as="div" target="_blank">[![Linktree](https://img.shields.io/badge/linktree-2b983f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dev.daniel)
-</a>
-
-<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcso)
-[![Linktree](https://img.shields.io/badge/linktree-2b983f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dev.daniel) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcso)
+[![Linktree](https://img.shields.io/badge/linktree-2b983f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dev.daniel)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -33,6 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-carlos&show_icons=true&locale=en" alt="daniel-carlos" /></p>
 
-
-
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
