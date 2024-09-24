@@ -33,3 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-carlos&show_icons=true&locale=en" alt="daniel-carlos" /></p>
 
+
+
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
