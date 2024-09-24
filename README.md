@@ -5,8 +5,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a as="div">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcso)</a>
-<a as="div">[![Linktree](https://img.shields.io/badge/linktree-2b983f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dev.daniel)
+<a as="div" target="_blank">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcso)</a>
+<a as="div" target="_blank">[![Linktree](https://img.shields.io/badge/linktree-2b983f?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dev.daniel)
 </a>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcso)
